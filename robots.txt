@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://softjuare.com
+
+# Sitemaps
+Sitemap: https://softjuare.com/sitemap.xml
