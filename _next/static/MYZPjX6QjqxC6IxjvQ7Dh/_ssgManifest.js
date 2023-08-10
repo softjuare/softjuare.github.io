@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002F","\u002Flabs copy\u002Fprivate-proxy","\u002Flabs\u002Fprivate-proxy"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
